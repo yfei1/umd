@@ -1,0 +1,59 @@
+Election,President,Main Opponent,Electoral Vote -Winner,Electoral Vote -Opponent,Popular Vote -Winner,Popular Vote -Opponent,Vice President,WinnerParty,OpponentParty,VicePresidentEV
+1789,George Washington,John Adams,69,34,,,John Adams,F,F,
+1792,George Washington,John Adams,132,77,,,John Adams,F,F,
+1796,John Adams,Thomas Jefferson,71,68,,,Thomas Jefferson,F,D-R,
+1800,Thomas Jefferson,Aaron Burr,73,73,,,Aaron Burr,D-R,D-R,
+1804,Thomas Jefferson,Charles Pinckney,162,14,,,George Clinton,D-R,F,162
+1808,James Madison,Charles Pinckney,122,47,,,George Clinton,D-R,F,113
+1812,James Madison,De Witt Clinton,128,89,,,Elbridge Gerry,D-R,F,131
+1816,James Monroe,Rufus King,183,34,,,Daniel Tompkins,D-R,F,183
+1820,James Monroe,John Quincy Adams,231,1,,,Daniel Tompkins,D-R,N-R,218
+1824,John Quincy Adams,Andrew Jackson,84,99,113122,151271,John Calhoun,Coalition,D-R,182
+1828,Andrew Jackson,John Quincy Adams,178,83,642553,500897,John Calhoun,D,N-R,171
+1832,Andrew Jackson,Henry Clay,219,49,701780,484205,Martin Van Buren,D,N-R,189
+1836,Martin Van Buren,William Henry Harrison,170,73,764176,550816,Richard Johnson,D,W,147
+1840,William Henry Harrison,Martin Van Buren,234,60,1275390,1128854,John Tyler,W,D,234
+1844,James Polk,Henry Clay,170,105,1339494,1300004,George Dallas,D,W,170
+1848,Zachary Taylor,Lewis Cass,163,127,1361393,1223460,Millard Fillmore,W,D,163
+1852,Franklin Pierce,Winfield Scott,254,42,1607510,1386942,William King,D,W,254
+1856,James Buchanan,John Frémont,174,114,1836072,1342345,John Breckinridge,D,R,174
+1860,Abraham Lincoln,John Breckinridge,180,72,1865908,848019,Hannibal Hamlin,R,D,180
+1864,Abraham Lincoln,George McClellan,212,21,2218388,1812807,Andrew Johnson,R,D,212
+1868,Ulysses Grant,Horatio Seymour,214,80,3013650,2708744,Schuyler Colfax,R,D,214
+1872,Ulysses Grant,Horace Greeley,286,,3598235,2834761,Henry Wilson,R,D-LR,286
+1876,Rutherford Hayes,Samuel Tilden,185,184,4034311,4288546,William Wheeler,R,D,185
+1880,James Garfield,Winfield Hancock,214,155,4446158,4444260,Chester Arthur,R,D,214
+1884,Grover Cleveland,James Blaine,219,182,4874621,4848936,Thomas Hendricks,D,R,219
+1888,Benjamin Harrison,Grover Cleveland,233,168,5443892,5534488,Levi Morton,R,D,233
+1892,Grover Cleveland,Benjamin Harrison,277,145,5551883,5179244,Adlai Stevenson,D,R,277
+1896,William McKinley,William Bryan,271,176,7108480,6511495,Garret Hobart,R,D-P,271
+1900,William McKinley,William Bryan,292,155,7218039,6358345,Theodore Roosevelt,R,D-P,292
+1904,Theodore Roosevelt,Alton Parker,336,140,7626593,5082898,Charles Fairbanks,R,D,336
+1908,William Taft,William Bryan,321,162,7676258,6406801,James Sherman,R,D,321
+1912,Woodrow Wilson,Theodore Roosevelt,435,88,6293152,4119207,Thomas Marshall,D,P,435
+1916,Woodrow Wilson,Charles Hughes,277,254,9126300,8546789,Thomas Marshall,D,R,277
+1920,Warren Harding,James Cox,404,127,16153115,9133092,Calvin Coolidge,R,D,404
+1924,Calvin Coolidge,John Davis,382,136,15719921,8386704,Charles Dawes,R,D,382
+1928,Herbert Hoover,Alfred Smith,444,87,21437277,15007698,Charles Curtis,R,D,444
+1932,Franklin Roosevelt,Herbert Hoover,472,59,22829501,15760684,John Garner,D,R,472
+1936,Franklin Roosevelt,Alfred Landon,523,8,27757333,16684231,John Garner,D,R,523
+1940,Franklin Roosevelt,Wendell Wilkie,449,82,27313041,22348480,Henry Wallace,D,R,449
+1944,Franklin Roosevelt,Thomas Dewey,432,99,25612610,22117617,Harry Truman,D,R,432
+1948,Harry Truman,Thomas Dewey,303,189,24179345,21991291,Alben Barkely,D,R,303
+1952,Dwight Eisenhower,Adlai Stevenson,442,89,33936234,27314992,Richard Nixon,R,D,442
+1956,Dwight Eisenhower,Adlai Stevenson,457,73,35590472,26022752,Richard Nixon,R,D,457
+1960,John Kennedy,Richard Nixon,303,219,34226731,34108157,Lyndon Johnson,D,R,303
+1964,Lyndon Johnson,Barry Goldwater,486,52,43129566,27178188,Hubert Humphrey,D,R,486
+1968,Richard Nixon,Hubert Humphrey,301,191,31785480,31275166,Spiro Agnew,R,D,301
+1972,Richard Nixon,George McGovern,520,17,47169911,29170383,Spiro Agnew,R,D,520
+1976,Jimmy Carter,Gerald Ford,297,240,40830763,39147793,Walter Mondale,D,R,297
+1980,Ronald Reagan,Jimmy Carter,489,49,43904153,35483883,George Bush,R,D,489
+1984,Ronald Reagan,Walter Mondale,525,13,54455075,37577185,George Bush,R,D,525
+1988,George Bush,Michael Dukakis,426,111,48886097,41809074,James Danforth Quayle,R,D,426
+1992,William Clinton,George Bush,370,168,44908254,39102343,"Albert Gore, Jr.",D,R,370
+1996,William Clinton,Bob Dole,379,159,45590703,37816307,"Albert Gore, Jr.",D,R,379
+2000,George Bush,Albert Gore,271,266,50456062,50996582,Richard Cheney,R,D,271
+2004,George Bush,John Kerry,286,251,60693281,57355978,Richard Cheney,R,D,286
+2008,Barack Obama,John McCain,365,173,69297997,59597520,Joe Biden,D,R,365
+2012,Barack Obama,Mitt Romney,332,206,65446032,60589084,Joe Biden,D,R,332
+2016,Donald Trump,Hillary Clinton,306,232,62914474,65762564,Mike Pence,R,D,306
