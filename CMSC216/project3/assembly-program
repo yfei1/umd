@@ -1,0 +1,14 @@
+      li    R01    1
+      li    R02    2
+      add   R03  R02   R01
+      bne   R01  R02  skip
+      add   R03  R03   R02
+skip: sw    R03  var
+      write R03
+      halt
+# Note that this data word will be printed by your disassemble() as a halt
+# instruction, because our simple disassemble() doesn't have any notion that
+# some memory locations might contain data instead of instructions.  Since
+# its leftmost four bits are 0, it just looks like a halt instruction to
+# disassemble().
+var:  .data   4
